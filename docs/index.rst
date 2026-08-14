@@ -6,7 +6,6 @@ support process can help you resolve the issue more efficiently.
 Billing problems may include unexpected charges, missing purchases,
 payment failures, refund requests, or Game Club charges.
 
-
   
 .. image:: https://img.shields.io/badge/Support%20Now-blue?style=for-the-badge&logo=sign-in-alt&logoColor=white
    :width: 200px
